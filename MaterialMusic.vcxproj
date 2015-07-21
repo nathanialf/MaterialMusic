@@ -94,11 +94,15 @@
     <ClCompile Include="src\footer.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\ofApp.cpp" />
+    <ClCompile Include="src\slider.cpp" />
+    <ClCompile Include="src\visualizer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\card.h" />
     <ClInclude Include="src\footer.h" />
     <ClInclude Include="src\ofApp.h" />
+    <ClInclude Include="src\slider.h" />
+    <ClInclude Include="src\visualizer.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\libs\openFrameworksCompiled\project\vs\openframeworksLib.vcxproj">

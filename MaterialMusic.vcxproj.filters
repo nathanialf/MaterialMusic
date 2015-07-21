@@ -13,6 +13,12 @@
     <ClCompile Include="src\footer.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="src\visualizer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\slider.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="src">
@@ -27,6 +33,12 @@
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="src\footer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\visualizer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\slider.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>

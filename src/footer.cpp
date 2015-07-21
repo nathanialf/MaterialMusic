@@ -19,8 +19,6 @@ footer::footer(int x, int y, int w, int h)
 	this->setHeight(h);
 	
 	primary = ofColor(76, 175, 80);
-
-	printf("%i", this->getHeight());
 }
 
 void footer::setup()

@@ -34,7 +34,7 @@ void card::update()
 void card::draw()
 {
 	ofSetColor(primary_dark);
-	ofRectRounded(this->getX(), this->getY(), this->getWidth(), this->getHeight(), 3);
+	ofRectRounded(this->getX(), this->getY(), this->getWidth(), this->getHeight(), 2);
 	ofSetColor(secondary_dark);
 	//ofLine(this->getX(), this->getY() + this->getHeight() + 1, this->getX() + this->getWidth(), this->getY() + this->getHeight() + 1);
 }
